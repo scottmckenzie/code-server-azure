@@ -11,7 +11,6 @@ MACs hmac-sha1,hmac-sha1-96
 StrictModes 		yes
 SyslogFacility 		DAEMON
 PasswordAuthentication 	yes
-UsePrivilegeSeparation no
 PermitEmptyPasswords 	no
 PermitRootLogin 	yes
 Subsystem sftp internal-sftp
